@@ -33,7 +33,7 @@ Mahasiswa mampu :
 - perubahan direktori ke folder ke praktik (Pemrograman Mobile->Pertemuan-2)
 - npx create-expo-app ptmn2 --template blank
 <br>
-<img src="project-is-ready.png" width= "50%" >
+<img src="imagemypz3.png" width= "50%" >
 <br>
 
 
@@ -48,7 +48,7 @@ Mahasiswa mampu :
 - sebelumnya install (npx expo install react-dom react-native-web)
 - npx expo start --web 
 <br>
-<img src= "mobile-iPhone_17_Pro_Max.png" width="50%" >
+<img src= "imagemypz4.png" width="50%" >
 
 
 4. Tugas Praktikum Pemrograman Seluler (React Native)
