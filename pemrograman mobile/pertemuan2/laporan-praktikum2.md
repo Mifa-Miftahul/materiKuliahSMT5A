@@ -59,4 +59,6 @@ Mahasiswa mampu :
 - Cita-cita
 - Rencana Mencapai Cita-cita
 
+<img width="397" height="823" alt="image" src="https://github.com/user-attachments/assets/353ae4ba-3b6d-4ceb-b858-d3fe5ceb88b4" />
+
 ![alt text](image.png)
