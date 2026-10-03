@@ -1022,4 +1022,10 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     alignItems: "center",
   },
+
+  modalCloseBtnText: {
+    color: COLORS.white,
+    fontWeight: "700",
+    fontSize: 14,
+  },
 });
