@@ -117,3 +117,4 @@ Setelah menyelesaikan praktikum ini, mahasiswa mampu:
    ![alt text](mip.gif)
 
 ### tes
+1. yes
